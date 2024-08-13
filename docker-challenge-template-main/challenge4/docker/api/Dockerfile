@@ -1,5 +1,3 @@
-# Dockerfile in challenge3/docker/api
-
 FROM node:14
 
 WORKDIR /usr/src/app
